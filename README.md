@@ -1,6 +1,8 @@
 # Shopping App
 
-With a login, cart, and detail page with little bit of animation.. \n /n Its the first full fledge project created by me.. :)
+With a login, cart, and detail page with little bit of animation.. 
+
+Its the first full fledge project created by me.. :)
 
 ## Getting Started
 
