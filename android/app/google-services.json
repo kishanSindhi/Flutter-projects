@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482121801285",
+    "project_id": "sasta-app",
+    "storage_bucket": "sasta-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482121801285:android:c245db0d9b458241cbcd2c",
+        "android_client_info": {
+          "package_name": "com.example.sasta_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482121801285-iukn4f0u2i40tuha8ugqo80pag3c8j4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sasta_app",
+            "certificate_hash": "bd8bebcad504ca69d51eef91c18c81eb2f370967"
+          }
+        },
+        {
+          "client_id": "482121801285-ot5dg70o5ps61n47e29qcepgud3kkvku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkA47TbMNeaCaMIxMbNV7vaIywwDGH1i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482121801285-ot5dg70o5ps61n47e29qcepgud3kkvku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
