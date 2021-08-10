@@ -1,4 +1,4 @@
-# sasta_app
+# Shopping App
 
 A new Flutter project.
 
